@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "test"
+    "test": "make test"
   },
   "devDependencies": {
     "debug": "^0.8.1",
