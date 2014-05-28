@@ -17,5 +17,9 @@
     "should": "^3.3.2"
   },
   "author": "river grimm",
-  "license": "GPL v2"
+  "license": "GPL v2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/staygrimm/ractive-adaptors-modella.git"
+  }
 }
