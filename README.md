@@ -11,7 +11,7 @@ Component:
 
 npm:
 
-  npm install ractive-adaptors-modella
+    npm install ractive-adaptors-modella
 
 ## Example
 
