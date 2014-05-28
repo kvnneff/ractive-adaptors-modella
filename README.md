@@ -43,7 +43,7 @@ view.toHTML(); // <span>River Grimm - river.grimm@gmail.com</span>
 
 ### Adaptor([constructors])
 
-Unline other Ractive adaptors, we need to initialize this adaptor with an array of Modella constructors.  This is required since there's no easy method to discover if a model has been created by a constructor created by Modella.  Instead, we have to check against the constructor itself. 
+Unline other Ractive adaptors, we need to initialize this adaptor with an array of Modella constructors.  This is required as there's no easy method to discover if a model has been created by Modella.  Instead, we have to check against the constructors Modella returns. 
 
 ## Test
 
