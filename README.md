@@ -18,7 +18,7 @@ npm:
 ```js
 var modellaAdaptor = require('ractive-adaptors-modella'),
     modella = require('modella'),
-    Ractive = require('ractive),
+    Ractive = require('ractive'),
     User,
     user
 
