@@ -1,4 +1,5 @@
 # Ractive-adaptors-modella
+[![Build Status](https://travis-ci.org/staygrimm/ractive-adaptors-modella.svg?branch=master)](https://travis-ci.org/staygrimm/ractive-adaptors-modella)
 
 [Ractive](http://ractivejs.org/) adaptor plugin for [modella](https://github.com/modella/modella).
 
