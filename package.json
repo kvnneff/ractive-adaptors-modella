@@ -1,0 +1,21 @@
+{
+  "name": "ractive-adaptors-modella",
+  "version": "0.0.1",
+  "description": "modella adaptor for ractive.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "debug": "^0.8.1",
+    "mocha": "^1.19.0",
+    "modella": "^0.2.8",
+    "ractive": "^0.4.0",
+    "should": "^3.3.2"
+  },
+  "author": "river grimm",
+  "license": "GPL v2"
+}
