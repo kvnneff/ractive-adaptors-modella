@@ -77,12 +77,14 @@ ModellaWrapper.prototype.get = function get() {
 
 ModellaWrapper.prototype.set = function set(keypath, value) {
     if (!this.changing && keypath.indexOf('.') === -1) {
-        this.model.set(keypath, value);
+        var obj = {};
+        obj[keypath] = value;
+        this.model.set(obj);
     }
 };
 
 ModellaWrapper.prototype.reset = function reset(object) {
-    // Modella does not provide a reset method
+    // Modella does not provide a reset method so we get retire the model
     return false;
 };
 
