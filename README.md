@@ -51,4 +51,4 @@ Unline other Ractive adaptors, we need to initialize this adaptor with an array 
 
 ## License
 
-GPL v2
+MIT
