@@ -8,6 +8,6 @@
         "model",
         "modella"
     ],
-    "license": "GPL v2",
+    "license": "MIT",
     "scripts": ["index.js"]
 }
