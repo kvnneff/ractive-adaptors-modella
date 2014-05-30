@@ -1,7 +1,7 @@
 {
     "name": "ractive-adaptors-modella",
     "description": "ractive adaptor for modella models",
-    "version": "0.0.1" ,
+    "version": "0.0.2" ,
     "repository": "staygrimm/ractive-adaptors-modella",
     "keywords": [
         "ractive",
